@@ -1,7 +1,5 @@
 # OPA SUITE + PYTHON + MONGODB
 
-## [Saulo Costa - Telegram](https://t.me/saulos2costa/ "telegram")
-
 ![image](https://user-images.githubusercontent.com/23584038/128613485-10e750c9-e0a4-4cdb-84d4-b99ed7ab4aa9.png)
 
 ![image](https://user-images.githubusercontent.com/23584038/128373763-ffbb7def-8089-4e82-87d7-4039c2b2de86.png)
@@ -149,10 +147,12 @@ $[?(@.setor.oid == "{#ID_DEPARTAMENTO}")].length()
       2) Por canal
       3) Por usuário
 
-##
+## [Saulo Costa - Telegram](https://t.me/saulos2costa/ "telegram")
 
-- [Script em Python](./recursos/python/opaSuite.py)
+> Obtenha...
 
-- [Dashboard do Grafana](./recursos/grafana/dashboard_opa_suite.json)
+- Script em Python
 
-- [Template do Zabbix](./recursos/zabbix/OpaSuiteTemplate.xml)
+- Dashboard do Grafana
+
+- Template do Zabbix
