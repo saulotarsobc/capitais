@@ -1,5 +1,4 @@
-import sys, json
-import pymongo
+import sys, json, pymongo
 from bson.json_util import dumps
 from datetime import datetime
 #from bson import ObjectId

@@ -46,4 +46,4 @@ getDepartamentos()
 getAtendimentos()
 getCanais()
 
-print(data['atendimentos'])
+print(data['departamentos'])
